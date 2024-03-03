@@ -1,0 +1,454 @@
+{
+  "AccentPhrase.vue": {
+    "削除": "Delete"
+  },
+  "AcceptRetrieveTelemetryDialog.vue": {
+    "拒否": "Deny",
+    "許可": "Approve"
+  },
+  "AcceptTermsDialog.vue": {
+    "同意して使用開始": "Agree and Start",
+    "同意せずに終了": "Deny and Quit "
+  },
+  "AudioCell.vue": {
+    "コピー": "Copy",
+    "コンテキストメニューアイテムの取得に失敗しました。": "Failed to get a context menu item.",
+    "予期せぬタイプエラーです。": "Unexpected type error.",
+    "全選択": "Select All",
+    "切り取り": "Cut",
+    "次に選択するaudioKeyが見付かりませんでした（unreachable）": "The next selected Audiokey was not found (Unreachable)",
+    "読みを変えずに適用": "Apply without changing the pronounce",
+    "貼り付け": "Paste"
+  },
+  "AudioDetail.vue": {
+    "エンジンの再起動をお試しください。": "Try restarting the engine.",
+    "全体のイントネーションをリセット": "Reset the whole intonation",
+    "再生/停止": "Play/Stop",
+    "再生に失敗しました": "Failed to play",
+    "選択中のアクセント句のイントネーションをリセット": "Reset the intonation for selected accent phrase",
+    "長さ": "Length",
+    "長さ欄を表示": "Display Length Tab",
+    "ｱｸｾﾝﾄ": "Accent",
+    "ｱｸｾﾝﾄ欄を表示": "Display Accent Tab",
+    "ｲﾝﾄﾈｰｼｮﾝ": "Intonation",
+    "ｲﾝﾄﾈｰｼｮﾝ欄を表示": "Display Intonation Tab"
+  },
+  "AudioInfo.vue": {
+    "キャンセル": "Cancel",
+    "タイトル": "Title",
+    "プリセット解除": "Deassign Preset",
+    "プリセット選択": "Assign Preset",
+    "入力": "Input",
+    "再登録": "Reregistration",
+    "抑揚": "Intonation",
+    "未設定": "Unassigned",
+    "登録": "Registration",
+    "確定": "Confirm",
+    "終了無音": "End Sil.",
+    "話速": "Speed",
+    "開始無音": "Start Sil.",
+    "音量": "Volume",
+    "音高": "Pitch"
+  },
+  "BaseMenuBar.vue": {
+    "エンジン": "Engine",
+    "エンジンの管理": "Engine Management",
+    "オプション": "Option",
+    "キャラクター並び替え・試聴": "Character sorting & audition",
+    "キー割り当て": "Hotkey Management",
+    "ツールバーのカスタマイズ": "Toolbar Customization",
+    "デフォルトスタイル": "Default style",
+    "ファイル": "File",
+    "フォルダを開く": "Open the folder",
+    "プロジェクトを上書き保存": "Save project",
+    "プロジェクトを名前を付けて保存": "Save project as",
+    "プロジェクト読み込み": "Load Project",
+    "ヘルプ": "Help",
+    "マルチエンジンをオンにして再読み込み": "Turn on multi-engine feature and restart",
+    "全てのエンジンを再起動": "Restart all engines",
+    "再起動": "Restart",
+    "新規プロジェクト": "New project",
+    "最近使ったプロジェクト": "Recently used projects",
+    "最近使ったプロジェクトはありません": "There is no recent project",
+    "設定": "Option",
+    "読み方＆アクセント辞書": "Pronounce & Accent dictionary"
+  },
+  "CharacterButton.vue": {
+    "キャラクター未選択": "No Assigned Character"
+  },
+  "CharacterOrderDialog.vue": {
+    "完了": "Completed",
+    "設定 / キャラクター並び替え・試聴": "Option / Character sort & audition",
+    "追加キャラクターの紹介": "Introduction of new characters"
+  },
+  "CharacterPortrait.vue": {
+    "（表示エラー）": "(Display error)"
+  },
+  "CharacterTryListenCard.vue": {
+    "前のスタイル": "Previous style",
+    "次のスタイル": "Next style"
+  },
+  "ConfigManager.ts": {
+    "一つだけ書き出し": "Export this line",
+    "選択音声を書き出し": "Export selected lines"
+  },
+  "Container.vue": {
+    "環境変数VITE_LATEST_UPDATE_INFOS_URLが設定されていません。.envに記載してください。": "Environment variable `VITE_LATEST_UPDATE_INFOS_URL` is not assigned. Please assign in `.env`."
+  },
+  "DefaultStyleListDialog.vue": {
+    "完了": "Completed"
+  },
+  "DefaultStyleSelectDialog.vue": {
+    "保存": "Keep",
+    "戻る": "Return"
+  },
+  "Dialog.ts": {
+    "エンジンのエラーによって失敗しました。エンジンの再起動をお試しください。": "Failed due to engine error.Try restarting the engine.",
+    "キャンセル": "Cancel",
+    "テキスト": "Text",
+    "テキストの書き出しに失敗しました。": "Failed to export text file.",
+    "今後このメッセージを表示しない": "Do not show again",
+    "何らかの理由で書き出しに失敗しました。ログを参照してください。": "Failed to export for unknown reason. Please refer the log.",
+    "書き出しに失敗しました。": "Failed to export.",
+    "書き込みエラーによって失敗しました。空き容量があることや、書き込み権限があることをご確認ください。": "Failed due to writing error. Make sure you have free space and that you have the authority to write.",
+    "閉じる": "Close",
+    "音声": "Audio"
+  },
+  "DictionaryManageDialog.vue": {
+    "このまま続行すると、単語の追加・変更は破棄されてリセットされます。": "If continue, changes you made to the dictionary will be discarded.",
+    "エンジンの再起動をお試しください。": "Try restarting the engine .",
+    "リセット": "Reset",
+    "削除": "Delete",
+    "削除された単語は復旧できません。": "Deleted words cannot be recovered.",
+    "単語の削除に失敗しました": "Failed to delete words",
+    "単語の変更は破棄されてリセットされます。": "Changes to the dictionary are discarded and reset.",
+    "単語の変更をリセットしますか？": "Do you want to reset the word?",
+    "単語の更新に失敗しました": "Failed to update the words",
+    "単語の登録に失敗しました": "Failed to register the words",
+    "単語の追加・変更を破棄しますか？": "Do you want to discard the change you made ?",
+    "最低": "Lowest",
+    "最高": "Highest",
+    "標準": "Ordinary",
+    "生成に失敗しました": "Failed to generate",
+    "登録された単語を削除しますか？": "Are you sure to delete the registered word?",
+    "続行": "Continue",
+    "辞書の取得に失敗しました": "Failed to get the dictionary",
+    "辞書の同期に失敗しました": "Failed to synchronize the dictionary"
+  },
+  "EngineManageDialog.vue": {
+    "この操作はコンピュータに損害を与える可能性があります。エンジンの配布元が信頼できない場合は追加しないでください。": "This operation may cause damage to the computer.Do not add if the engine distribution source is not reliable.",
+    "エンジンのフォルダを選択": "Select the engine folder",
+    "エンジンの削除には再読み込みが必要です。今すぐ再読み込みしますか？": "Reloading the engine is required to delete the engine.Do you want to reload now?",
+    "エンジンを削除しました。反映には再読み込みが必要です。今すぐ再読み込みしますか？": "The engine has been deleted.Reflecting is required to be reflected.Do you want to reload now?",
+    "エンジンを追加しました。反映には再読み込みが必要です。今すぐ再読み込みしますか？": "The engine has been added.Reflecting is required to be reflected.Do you want to reload now?",
+    "エンジンフォルダの場所": "Engine folder location",
+    "エンジン削除の確認": "Confirmation of engine deletion",
+    "エンジン追加の確認": "Confirmation of engine addition",
+    "デフォルトエンジン": "Default engine",
+    "フォルダが見つかりませんでした。": "I couldn't find the folder.",
+    "フォルダではありません。": "Not a folder.",
+    "モーラごとの音高の調整": "Adjustment of sound height for each mora",
+    "全体の抑揚の調整": "Adjustment of overall intonation",
+    "全体の話速の調整": "Adjusting the overall story speed",
+    "全体の音量の調整": "Adjusting the overall volume",
+    "全体の音高の調整": "Adjustment of the overall sound height",
+    "再読み込み": "Reload",
+    "再読み込みが必要です": "Re -loading is required",
+    "削除": "delete",
+    "同じIDのエンジンが既に登録されています。": "The engine of the same ID has already been registered.",
+    "対応": "correspondence",
+    "後で": "later",
+    "既存エンジン": "Existing engine",
+    "歌唱音声合成": "Singing voice synthesis",
+    "疑問文の自動調整": "Automatic adjustment of questions",
+    "追加": "addition",
+    "追加エンジン": "Additional engine",
+    "選択中のエンジンを削除します。よろしいですか？": "Delete the selected engine.Is it OK?",
+    "非対応": "incompatible",
+    "音声ライブラリ(vvlib)の管理": "Management of voice library (VVLIB)",
+    "音素ごとの長さの調整": "Adjustment of length for each sound element",
+    "（取得に失敗しました）": "(Failed to get)",
+    "（組み込み）": "(Included)"
+  },
+  "EngineStartupOverlay.vue": {
+    "エンジン起動中・・・": "The engine is running ...",
+    "データ準備中・・・": "Data is preparing ..."
+  },
+  "FileNamePatternDialog.vue": {
+    "キャンセル": "cancel",
+    "デフォルトにリセット": "Reset by default",
+    "ファイル名パターン": "File name pattern",
+    "何か入力してください": "Please enter something",
+    "確定": "Confirm"
+  },
+  "HelpDialog.vue": {
+    "お問い合わせ": "inquiry",
+    "よくあるご質問": "FAQ",
+    "アップデート情報": "Update information",
+    "ソフトウェアの利用規約": "Software Terms of Service",
+    "ヘルプを閉じる": "Close help",
+    "ライセンス情報": "License information",
+    "使い方": "How to use",
+    "利用規約": "terms of service",
+    "環境変数VITE_LATEST_UPDATE_INFOS_URLが設定されていません。.envに記載してください。": "Environmental variable vite_latest_update_infos_url is not set.Please describe it in .env.",
+    "開発コミュニティ": "Development community",
+    "音声ライブラリの利用規約": "Terms of use of voice library"
+  },
+  "HotkeySettingDialog.vue": {
+    "キャンセル": "cancel",
+    "ショートカットキー": "Shortcut key",
+    "ショートカットキーを初期値に戻します": "Return the shortcut key to the initial value",
+    "ショートカットキーを未設定にする": "Not set a shortcut key",
+    "上書きする": "Overwrite",
+    "初期値に戻さない": "Do not return to the initial value",
+    "初期値に戻す": "Return to the initial value",
+    "操作": "operation",
+    "未設定": "Unanimed",
+    "検索": "search",
+    "（読み取り専用）": "(Read -only)"
+  },
+  "LibraryPolicy.vue": {
+    "戻る": "return"
+  },
+  "MenuBar.vue": {
+    "テキストを繋げて書き出し": "Connect the text and write it out",
+    "テキスト欄が選択されていません": "The text field is not selected",
+    "テキスト読み込み": "Text reading",
+    "テキスト読み込む": "Read text",
+    "選択音声を書き出し": "Write the selected audio",
+    "音声を書き出したいテキスト欄を選択してください。": "Select the text field you want to write out the audio.",
+    "音声を繋げて書き出し": "Connect the audio and write it out",
+    "音声書き出し": "Speech writing"
+  },
+  "MinMaxCloseButtons.vue": {
+    "最大化": "Maximization",
+    "最小化": "Minimization",
+    "閉じる": "close"
+  },
+  "OssLicense.vue": {
+    "戻る": "return"
+  },
+  "Presentation.vue": {
+    "このバージョンをスキップ": "Skip this version",
+    "公式サイトを開く": "Open the official website",
+    "閉じる": "close"
+  },
+  "PresetManageDialog.vue": {
+    "プリセット削除の確認": "Confirmation of preset deletion",
+    "削除": "delete"
+  },
+  "SaveAllResultDialog.vue": {
+    "閉じる": "close"
+  },
+  "ScoreSequencer.vue": {
+    "シーケンサ": "Sequencer"
+  },
+  "SequencerNote.vue": {
+    "削除": "delete"
+  },
+  "SettingDialog.vue": {
+    "エディタのフォントを選べます。": "You can choose an editor font.",
+    "エディタの色を選べます。": "You can choose the color of the editor.",
+    "オフ": "off",
+    "ソフトウェア利用状況のデータ収集の無効化": "Disable data collection of software usage status",
+    "ソフトウェア利用状況のデータ収集を完全に無効にするには、VOICEVOXを再起動する必要があります": "To completely disable data collection of software usage status, you need to restart VoiceVox",
+    "ソングエディターで、ピッチを表示します。": "Displays the pitch in the song editor.",
+    "テキストファイルを書き出す際の文字コードを選べます。": "You can choose the character code to write a text file.",
+    "テキスト変更時、同じ読みのアクセント区間内の調整結果を保持します。": "When changing text, hold the adjustment results in the same reading section.",
+    "テキスト貼り付けの際のテキストの分割箇所を選べます。": "You can choose the split part of the text when paste the text.",
+    "デフォルト": "Default",
+    "プリセット機能を有効にします。パラメータを登録したり適用したりできます。": "Enable the preset function.You can register and apply parameters.",
+    "ページめくり": "Page turning",
+    "モーフィング機能を有効にします。2つの音声混ぜられるようになります。": "Enable the morting function.You will be able to mix two audio.",
+    "再生と保存時の音声のサンプリングレートを変更できます（サンプリングレートを上げても音声の品質は上がりません）。": "You can change the sampling rate of the audio when playing and saving (even if the sampling rate is increased, the quality of the audio does not increase).",
+    "再表示する": "Re -display",
+    "出力サンプリングレートを変更しても、音質は変化しません。また、音声の生成処理に若干時間がかかる場合があります。<br />変更しますか？": "Changing the output sampling rate does not change the sound quality.In addition, it may take some time for voice generation processing.<br /> Do you change?",
+    "出力サンプリングレートを変更します": "Change the output sampling rate",
+    "句点と改行": "Points and line breaks",
+    "変更しない": "It does not change",
+    "変更する": "change",
+    "改行": "new line",
+    "書き出し先のフォルダ": "Exported folder",
+    "書き出し先のフォルダを選択": "Select the folder at the destination",
+    "書き出す際のファイル名のパターンをカスタマイズできます。": "You can customize the pattern of the file name when writing.",
+    "編集する": "To edit",
+    "複数のテキスト欄を選択できるようにします。": "Make sure you can select multiple text columns.",
+    "設定を閉じる": "Close the settings",
+    "起動モードを変更中です": "The startup mode is being changed",
+    "連続": "continuous",
+    "過去に非表示にしたヒントを全て再表示できます。": "You can redeemed all hints that were hidden in the past.",
+    "音声の再生デバイスを変更できます。": "You can change the voice playback device.",
+    "音声再生中の、詳細調整欄の自動スクロールのモードを選べます。": "You can select the automatic scrolling mode in the detailed adjustment field during voice playback."
+  },
+  "SingEditor.vue": {
+    "レンダリング中・・・": "Rendering ...",
+    "音声の書き出しをキャンセル": "Cancellation of voice export",
+    "音声を書き出し中・・・": "Writing audio ..."
+  },
+  "TalkEditor.vue": {
+    "テキストを追加": "Add text",
+    "テキストファイル (.txt) とVOICEVOXプロジェクトファイル (.vvproj) に対応しています。": "Compatible with text files (.txt) and Voicevox project files (.vvproj).",
+    "テキスト欄からフォーカスを外す": "Remove the focus from the text field",
+    "テキスト欄にフォーカスを戻す": "Return the focus to the text field",
+    "テキスト欄を削除": "Delete text field",
+    "テキスト欄を複製": "Duplicate the text field",
+    "テキスト欄を追加": "Added text field",
+    "対応していないファイルです": "It is a file that does not support"
+  },
+  "TitleBarButtons.vue": {
+    "最前面に固定": "Fixed to the front",
+    "最前面固定を解除": "Unlock the front of the front"
+  },
+  "TitleBarEditorSwitcher.vue": {
+    "ソング": "song",
+    "トーク": "Talk"
+  },
+  "ToolBar.vue": {
+    "やり直す": "Start over",
+    "エンジンの再起動をお試しください。": "Try the engine restart.",
+    "元に戻す": "Put back",
+    "再生に失敗しました": "Failed to play",
+    "連続再生/停止": "Continuous playback/stop"
+  },
+  "ToolBarCustomDialog.vue": {
+    "いいえ": "no",
+    "このまま終了すると、カスタマイズは破棄されてリセットされます。": "If it ends as it is, the customization will be discarded and reset.",
+    "これはボタンではありません。レイアウトの調整に使います。また、実際には表示されません。": "This is not a button.Used to adjust the layout.Also, it is not actually displayed.",
+    "はい": "yes",
+    "カスタマイズを終了しますか？": "Will you end the customization?",
+    "ツールバーをデフォルトに戻します": "Return the toolbar to the default",
+    "ツールバーをデフォルトに戻します。<br/>よろしいですか？": "Return the toolbar to the default.<br/> Are you sure?",
+    "テキストが読み上げられているときに、それを止めます。": "Stop it when the text is being read out.",
+    "テキストファイル(.txt)を読み込みます。": "Read the text file (.txt).",
+    "プロジェクトを上書き保存します。": "Overwrite and save the project.",
+    "元に戻した操作をやり直します。": "Rematch the restored operation.",
+    "入力されているすべてのテキストの読み上げを一つの音声ファイルに繋げて書き出します。": "Write out reading of all text input to one audio file.",
+    "入力されているすべてのテキストの読み上げを音声ファイルに書き出します。": "Write reading out all the text input to the audio file.",
+    "操作を一つ戻します。": "Return one operation.",
+    "終了": "end",
+    "選択されているテキストの読み上げを音声ファイルに書き出します。": "Write out the selected text to the audio file.",
+    "選択されているテキスト以降のすべてのテキストを読み上げます。": "Read out all the texts after the selected text."
+  },
+  "audio.ts": {
+    "セリフ読み込み": "Read line",
+    "ファイルが開かれています。": "The file is open.",
+    "ファイルにアクセスする許可がありません。": "There is no permission to access the file.",
+    "不明なエラーが発生しました。": "An unknown error occurred.",
+    "文章を全て繋げてテキストファイルに保存": "Connect all sentences and save them in a text file",
+    "空き容量が足りません。": "There is not enough space.",
+    "音声を保存": "Save audio",
+    "音声を全て繋げて保存": "Connect all audio and save"
+  },
+  "audioGenerate.ts": {
+    "モーフィングの設定が無効です。": "Morphing settings are invalid."
+  },
+  "audioPlayer.ts": {
+    "エラー": "error",
+    "再生デバイスが見つかりません": "I can't find a playback device"
+  },
+  "browserConfig.ts": {
+    "設定ファイルが見つかりません": "I can't find the configuration file"
+  },
+  "engineManager.ts": {
+    "エンジンの読み込みに失敗しました。": "I failed to read the engine.",
+    "音声合成エンジンが異常終了しました。エンジンを再起動してください。": "The speech synthesis engine has ended abnormally.Restart the engine."
+  },
+  "fileImpl.ts": {
+    "フォルダへのアクセス許可がありません。ファイルの読み書きのためにアクセス許可が必要です。": "There is no access permit to the folder.You need access permission to read and write a file."
+  },
+  "main.ts": {
+    "いいえ": "no",
+    "はい": "yes",
+    "アンインストールエラー": "Uninstall error",
+    "インストールエラー": "Installation error",
+    "エンジン追加の確認": "Confirmation of engine addition",
+    "キャンセル": "cancel",
+    "マルチエンジン機能が無効です": "Multi -engine function is invalid",
+    "何もせず終了": "End without doing anything",
+    "保存場所を変更": "Change the storage location",
+    "再読み込み": "Reload",
+    "再読み込みが必要です": "Re -loading is required",
+    "無視して保存": "Ignore and save",
+    "設定をリセットして続行": "Reset the settings and continue",
+    "設定ファイルのフォルダを開いて終了": "Open the configuration file folder and end",
+    "設定ファイルの読み込みエラー": "Reading error of configuration file",
+    "設定ファイルの読み込みエラー（開発者向け案内）": "Reading error of configuration file (information for developers)",
+    "警告": "caveat",
+    "追加": "addition",
+    "音声合成エンジンエラー": "Voice synthetic engine error"
+  },
+  "preload.ts": {
+    "やり直す": "Start over",
+    "テキスト欄からフォーカスを外す": "Remove the focus from the text field",
+    "テキスト欄にフォーカスを戻す": "Return the focus to the text field",
+    "テキスト欄を削除": "Delete text field",
+    "テキスト欄を複製": "Duplicate the text field",
+    "テキスト欄を追加": "Added text field",
+    "テキスト読み込む": "Read text",
+    "プロジェクトを上書き保存": "Overwrite and save projects",
+    "プロジェクトを名前を付けて保存": "Save the project with a name",
+    "プロジェクト読み込み": "Project reading",
+    "元に戻す": "Put back",
+    "全体のイントネーションをリセット": "Reset the whole intonation",
+    "再生/停止": "Play/stop",
+    "新規プロジェクト": "New project",
+    "連続再生/停止": "Continuous playback/stop",
+    "選択中のアクセント句のイントネーションをリセット": "Reset the intonation of the selected accent phrase",
+    "選択音声を書き出し": "Write the selected audio",
+    "長さ欄を表示": "Display the length column",
+    "音声を繋げて書き出し": "Connect the audio and write it out",
+    "音声書き出し": "Speech writing",
+    "ｱｸｾﾝﾄ欄を表示": "Display the account column",
+    "ｲﾝﾄﾈｰｼｮﾝ欄を表示": "Display the checking column"
+  },
+  "project.ts": {
+    "エラー": "error",
+    "エラーが発生しました。": "An error has occurred.",
+    "キャンセル": "cancel",
+    "ファイルフォーマットが正しくありません。": "The file format is incorrect.",
+    "プロジェクトの変更が保存されていません。": "No project changes have been saved.",
+    "プロジェクトをロードすると現在のプロジェクトは破棄されます。": "Loading a project will be destroyed.",
+    "プロジェクトファイルが見つかりませんでした。ファイルが移動、または削除された可能性があります。": "I couldn't find a project file.The file may have been moved or deleted.",
+    "プロジェクトファイルの保存": "Save project file",
+    "プロジェクトファイルの選択": "Selection of project files",
+    "保存": "keep",
+    "破棄": "destruction",
+    "警告": "caveat"
+  },
+  "sandbox.ts": {
+    "ブラウザ版ではファイルの保存機能が一部サポートされていません。": "The browser version does not support the preservation function of the file.",
+    "ブラウザ版では現在ファイルの読み込みをサポートしていません": "The browser version does not currently support the loading of the file"
+  },
+  "setting.ts": {
+    "このままGPUモードに変更するとエンジンエラーが発生する可能性があります。本当に変更しますか？": "If you change it to GPU mode as it is, an engine error may occur.Do you really change?",
+    "変更しない": "It does not change",
+    "変更する": "change",
+    "対応するGPUデバイスが見つかりません": "I can't find the corresponding GPU device"
+  },
+  "singing.ts": {
+    "うぉ": "Wow",
+    "じょ": "Jo",
+    "は": "teeth",
+    "へ": "fart",
+    "ウォ": "War",
+    "ジョ": "Jo",
+    "ハ": "C",
+    "ファイルが開かれています。": "The file is open.",
+    "ファイルにアクセスする許可がありません。": "There is no permission to access the file.",
+    "ヘ": "F",
+    "不明なエラーが発生しました。": "An unknown error occurred.",
+    "空き容量が足りません。": "There is not enough space.",
+    "音声を保存": "Save audio"
+  },
+  "viewHelper.ts": {
+    "ソング": "song",
+    "トーク": "Talk",
+    "ハミング": "Humming",
+    "ファ": "Fa"
+  },
+  "vvppManager.ts": {
+    "エンジンが見つかりませんでした。": "I couldn't find the engine.",
+    "エンジン削除エラー": "Engine deletion error",
+    "エンジン追加エラー": "Engine additional error"
+  }
+}
